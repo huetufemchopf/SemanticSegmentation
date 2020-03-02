@@ -1,11 +1,6 @@
-
-
-
-
 #€• Semantic Segmentation
 
-![illustration](seg.png)
-
+<img src="seg.png" alt="hi" class="inline"/>
 
 This is part of the Projects of the course "Deep Learning and Computer Vision" of National Taiwan University.  
 In this project, a segmantic segmentation network is implemented. The final mean-iou score is 73.3 % 
